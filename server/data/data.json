@@ -1,0 +1,442 @@
+[
+    {
+        "_id": "572bb8222b288919b68abf69",
+        "tripduration": 1245,
+        "start station id": 442,
+        "start station name": "W 27 St & 7 Ave",
+        "end station id": 545,
+        "end station name": "E 23 St & 1 Ave",
+        "bikeid": 24071,
+        "usertype": "Subscriber",
+        "birth year": 1970,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.993915, 40.746647]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.97809472, 40.736502]
+        },
+        "start time": "2016-01-01T00:08:17Z",
+        "stop time": "2016-01-01T00:29:03Z"
+    },
+    {
+        "_id": "572bb8222b288919b68abf6c",
+        "tripduration": 888,
+        "start station id": 284,
+        "start station name": "Greenwich Ave & 8 Ave",
+        "end station id": 439,
+        "end station name": "E 4 St & 2 Ave",
+        "bikeid": 15082,
+        "usertype": "Subscriber",
+        "birth year": 1982,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-74.0026376103, 40.7390169121]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.98978041, 40.7262807]
+        },
+        "start time": "2016-01-01T00:08:47Z",
+        "stop time": "2016-01-01T00:23:36Z"
+    },
+    {
+        "_id": "572bb8222b288919b68abf88",
+        "tripduration": 931,
+        "start station id": 492,
+        "start station name": "W 33 St & 7 Ave",
+        "end station id": 405,
+        "end station name": "Washington St & Gansevoort St",
+        "bikeid": 20258,
+        "usertype": "Subscriber",
+        "birth year": 1982,
+        "gender": 2,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.99093085, 40.75019995]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-74.008119, 40.739323]
+        },
+        "start time": "2016-01-01T00:16:36Z",
+        "stop time": "2016-01-01T00:32:08Z"
+    },
+    {
+        "_id": "572bb8222b288919b68abf89",
+        "tripduration": 879,
+        "start station id": 281,
+        "start station name": "Grand Army Plaza & Central Park S",
+        "end station id": 379,
+        "end station name": "W 31 St & 7 Ave",
+        "bikeid": 23386,
+        "usertype": "Subscriber",
+        "birth year": 1981,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.97371465, 40.7643971]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.9916, 40.749156]
+        },
+        "start time": "2016-01-01T00:16:41Z",
+        "stop time": "2016-01-01T00:31:20Z"
+    },
+    {
+        "_id": "572bb8222b288919b68abfab",
+        "tripduration": 765,
+        "start station id": 410,
+        "start station name": "Suffolk St & Stanton St",
+        "end station id": 475,
+        "end station name": "E 16 St & Irving Pl",
+        "bikeid": 14540,
+        "usertype": "Subscriber",
+        "birth year": 1986,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.98517977, 40.72066442]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.98758561, 40.73524276]
+        },
+        "start time": "2016-01-01T00:21:25Z",
+        "stop time": "2016-01-01T00:34:10Z"
+    },
+    {
+        "_id": "572bb8222b288919b68abfba",
+        "tripduration": 2446,
+        "start station id": 3163,
+        "start station name": "Central Park West & W 68 St",
+        "end station id": 3165,
+        "end station name": "Central Park West & W 72 St",
+        "bikeid": 23178,
+        "usertype": "Subscriber",
+        "birth year": 1950,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.97782542, 40.7734066]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.9762057363987, 40.77579376683666]
+        },
+        "start time": "2016-01-01T00:26:36Z",
+        "stop time": "2016-01-01T01:07:23Z"
+    },
+    {
+        "_id": "572bb8222b288919b68abfbd",
+        "tripduration": 902,
+        "start station id": 3109,
+        "start station name": "Banker St & Meserole Ave",
+        "end station id": 532,
+        "end station name": "S 5 Pl & S 4 St",
+        "bikeid": 16316,
+        "usertype": "Subscriber",
+        "birth year": 1983,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.95621, 40.72606]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.960876, 40.710451]
+        },
+        "start time": "2016-01-01T00:26:51Z",
+        "stop time": "2016-01-01T00:41:54Z"
+    },
+    {
+        "_id": "572bb8222b288919b68abfd1",
+        "tripduration": 469,
+        "start station id": 3137,
+        "start station name": "5 Ave & E 73 St",
+        "end station id": 3140,
+        "end station name": "1 Ave & E 78 St",
+        "bikeid": 23582,
+        "usertype": "Subscriber",
+        "birth year": 1980,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.96685276, 40.77282817]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.9535166, 40.77140426]
+        },
+        "start time": "2016-01-01T00:28:52Z",
+        "stop time": "2016-01-01T00:36:42Z"
+    },
+    {
+        "_id": "572bb8222b288919b68abfec",
+        "tripduration": 1160,
+        "start station id": 3147,
+        "start station name": "E 85 St & 3 Ave",
+        "end station id": 3129,
+        "end station name": "Queens Plaza North & Crescent St",
+        "bikeid": 18983,
+        "usertype": "Subscriber",
+        "birth year": 1983,
+        "gender": 2,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.95407149, 40.77801203]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.94073717, 40.75110165]
+        },
+        "start time": "2016-01-01T00:32:32Z",
+        "stop time": "2016-01-01T00:51:53Z"
+    },
+    {
+        "_id": "572bb8222b288919b68abffe",
+        "tripduration": 937,
+        "start station id": 405,
+        "start station name": "Washington St & Gansevoort St",
+        "end station id": 439,
+        "end station name": "E 4 St & 2 Ave",
+        "bikeid": 18161,
+        "usertype": "Subscriber",
+        "birth year": 1990,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-74.008119, 40.739323]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.98978041, 40.7262807]
+        },
+        "start time": "2016-01-01T00:35:45Z",
+        "stop time": "2016-01-01T00:51:22Z"
+    },
+    {
+        "_id": "572bb8222b288919b68ac000",
+        "tripduration": 708,
+        "start station id": 507,
+        "start station name": "E 25 St & 2 Ave",
+        "end station id": 212,
+        "end station name": "W 16 St & The High Line",
+        "bikeid": 22607,
+        "usertype": "Subscriber",
+        "birth year": 1980,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.97973776, 40.73912601]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-74.00681753, 40.74334935]
+        },
+        "start time": "2016-01-01T00:36:11Z",
+        "stop time": "2016-01-01T00:48:00Z"
+    },
+    {
+        "_id": "572bb8222b288919b68ac001",
+        "tripduration": 1259,
+        "start station id": 480,
+        "start station name": "W 53 St & 10 Ave",
+        "end station id": 537,
+        "end station name": "Lexington Ave & E 24 St",
+        "bikeid": 20299,
+        "usertype": "Subscriber",
+        "birth year": 1966,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.99061728, 40.76669671]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.98409214, 40.74025878]
+        },
+        "start time": "2016-01-01T00:36:28Z",
+        "stop time": "2016-01-01T00:57:27Z"
+    },
+    {
+        "_id": "572bb8222b288919b68ac01f",
+        "tripduration": 1047,
+        "start station id": 454,
+        "start station name": "E 51 St & 1 Ave",
+        "end station id": 504,
+        "end station name": "1 Ave & E 15 St",
+        "bikeid": 22123,
+        "usertype": "Subscriber",
+        "birth year": 1987,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.96592976, 40.75455731]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.98165557, 40.73221853]
+        },
+        "start time": "2016-01-01T00:41:16Z",
+        "stop time": "2016-01-01T00:58:44Z"
+    },
+    {
+        "_id": "572bb8222b288919b68ac047",
+        "tripduration": 431,
+        "start station id": 495,
+        "start station name": "W 47 St & 10 Ave",
+        "end station id": 449,
+        "end station name": "W 52 St & 9 Ave",
+        "bikeid": 22638,
+        "usertype": "Subscriber",
+        "birth year": 1971,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.99301222, 40.76269882]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.98789473, 40.76461837]
+        },
+        "start time": "2016-01-01T00:47:23Z",
+        "stop time": "2016-01-01T00:54:34Z"
+    },
+    {
+        "_id": "572bb8222b288919b68ac04f",
+        "tripduration": 965,
+        "start station id": 387,
+        "start station name": "Centre St & Chambers St",
+        "end station id": 492,
+        "end station name": "W 33 St & 7 Ave",
+        "bikeid": 16989,
+        "usertype": "Subscriber",
+        "birth year": 1981,
+        "gender": 2,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-74.0046073, 40.71273266]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.99093085, 40.75019995]
+        },
+        "start time": "2016-01-01T00:48:50Z",
+        "stop time": "2016-01-01T01:04:56Z"
+    },
+    {
+        "_id": "572bb8222b288919b68ac074",
+        "tripduration": 292,
+        "start station id": 3164,
+        "start station name": "Columbus Ave & W 72 St",
+        "end station id": 3178,
+        "end station name": "Riverside Dr & W 78 St",
+        "bikeid": 19492,
+        "usertype": "Subscriber",
+        "birth year": 1964,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.97898475, 40.7770575]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.98362492, 40.78414472]
+        },
+        "start time": "2016-01-01T00:57:15Z",
+        "stop time": "2016-01-01T01:02:08Z"
+    },
+    {
+        "_id": "572bb8222b288919b68ac075",
+        "tripduration": 478,
+        "start station id": 361,
+        "start station name": "Allen St & Hester St",
+        "end station id": 432,
+        "end station name": "E 7 St & Avenue A",
+        "bikeid": 24314,
+        "usertype": "Subscriber",
+        "birth year": 1982,
+        "gender": 2,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.99190759, 40.71605866]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.98379855, 40.72621788]
+        },
+        "start time": "2016-01-01T00:57:19Z",
+        "stop time": "2016-01-01T01:05:18Z"
+    },
+    {
+        "_id": "572bb8222b288919b68ac083",
+        "tripduration": 1499,
+        "start station id": 445,
+        "start station name": "E 10 St & Avenue A",
+        "end station id": 3115,
+        "end station name": "India St & Manhattan Ave",
+        "bikeid": 23909,
+        "usertype": "Subscriber",
+        "birth year": 1986,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.98142006, 40.72740794]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.9550858, 40.73232194]
+        },
+        "start time": "2016-01-01T01:00:07Z",
+        "stop time": "2016-01-01T01:25:07Z"
+    },
+    {
+        "_id": "572bb8222b288919b68ac09f",
+        "tripduration": 2642,
+        "start station id": 473,
+        "start station name": "Rivington St & Chrystie St",
+        "end station id": 3002,
+        "end station name": "South End Ave & Liberty St",
+        "bikeid": 23082,
+        "usertype": "Customer",
+        "birth year": "",
+        "gender": 0,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.9919254, 40.72110063]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-74.015756, 40.711512]
+        },
+        "start time": "2016-01-01T01:04:38Z",
+        "stop time": "2016-01-01T01:48:40Z"
+    },
+    {
+        "_id": "572bb8222b288919b68ac0a3",
+        "tripduration": 325,
+        "start station id": 350,
+        "start station name": "Clinton St & Grand St",
+        "end station id": 308,
+        "end station name": "St James Pl & Oliver St",
+        "bikeid": 21703,
+        "usertype": "Subscriber",
+        "birth year": 1965,
+        "gender": 1,
+        "start station location": {
+            "type": "Point",
+            "coordinates": [-73.9870295, 40.71559509]
+        },
+        "end station location": {
+            "type": "Point",
+            "coordinates": [-73.99851193, 40.71307916]
+        },
+        "start time": "2016-01-01T01:05:41Z",
+        "stop time": "2016-01-01T01:11:06Z"
+    }
+]
