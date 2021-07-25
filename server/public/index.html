@@ -7,17 +7,17 @@
         <link rel="stylesheet" href="css/style.css" />
         <!-- <link rel="stylesheet" href="css/background.css" /> -->
         <!--  ^ this stylesheet changes background color and grid item color -->
-        <script type="application/javascript" src="js/chart.js"></script>
+        <script type="application/javascript" src="js/chart.js" defer></script>
         <title></title>
     </head>
     <body>
         <div class="grid-container">
             <div class="grid-item header"></div>
             <div class="grid-item right-sidebar"></div>
-            <div class="grid-item content">
-                <svg></svg>
+            <div class="grid-item content"></div>
+            <div class="grid-item left-sidebar">
+                <button id="load-svg-button" class="button">Load Chart</button>
             </div>
-            <div class="grid-item left-sidebar"></div>
             <div class="grid-item footer"></div>
         </div>
     </body>
