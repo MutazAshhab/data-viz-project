@@ -1,12 +1,6 @@
-// const d3 = import("d3")
-//     .then((d3) => d3 = d3)
-//     .catch((err) => err);
 const d3Promise = import("d3-selection");
 const jsdom = require("jsdom");
 const barChart = require("./barchart");
-
-const fs = require("fs");
-const util = require("util");
 
 let d3 = d3Promise.then((lib) => (d3 = lib));
 
