@@ -47,7 +47,7 @@ body {
 .button:active {
     background-color: #808080;
 }
-.button3 {
+.button {
     display: block;
     margin: 0.2em auto;
 }
