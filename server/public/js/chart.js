@@ -37,5 +37,14 @@ function getChart() {
 }
 
 function loadData() {
-    // NOT IMPLEMENTED YET
+    options = {
+        method: "GET",
+    };
+
+    fetch("/api/data", options)
+        .then((res) => res.json())
+        .then((res) => {
+            console.log(res.data);
+        })
+        .catch((err) => console.log(err));
 }
