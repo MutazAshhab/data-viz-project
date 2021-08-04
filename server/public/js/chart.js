@@ -1,6 +1,8 @@
-const getSVGButton = document.getElementById("load-svg-button");
+const getChartButton = document.getElementById("load-svg-button");
+const loadDataButton = document.getElementById("load-data-button");
 
-getSVGButton.addEventListener("click", getChart);
+getChartButton.addEventListener("click", getChart);
+loadDataButton.addEventListener("click", loadData);
 
 function getChart() {
     const contentBox = document.getElementById("content");
@@ -32,4 +34,8 @@ function getChart() {
             contentBox.outerHTML = `${data.chart}`;
         })
         .catch((err) => console.log(err));
+}
+
+function loadData() {
+    // NOT IMPLEMENTED YET
 }
